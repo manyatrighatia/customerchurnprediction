@@ -54,7 +54,8 @@ Tenure
 Monthly Charges
 Total Charges
 Internet Service
-Future Improvements
+
+Future Improvements:-
 XGBoost
 Hyperparameter Tuning
 Deep Learning Models
