@@ -1,6 +1,6 @@
 Project Overview:-
 
-This project predicts whether a customer will leave a telecom company based on customer demographics, subscription details, billing information, and service usage.
+This project predicts whether a customer will leave a telecom company based on customer demographics, subscription details, billing information, and service usage
 
 Problem Statement:-
 
